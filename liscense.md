@@ -1,4 +1,4 @@
-MIT License
+MIT Liscense
 
 Copyright (c) [2023] [sonika kumar]
 
